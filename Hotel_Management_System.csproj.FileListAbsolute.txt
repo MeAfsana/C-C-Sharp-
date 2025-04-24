@@ -1,0 +1,46 @@
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.pdb
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Form1.resources
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.exe
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.pdb
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Form2.resources
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe.config
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\bin\Debug\addroom.mdf
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\bin\Debug\addroom_log.ldf
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Form3.resources
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.User_Controls.UcEmployee.resources
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.User_Controls.UcRoomlist.resources
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Form4.resources
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.FormCheckin.resources
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Formbill.resources
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Form5.resources
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.FormPayroll.resources
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.FormFinancial.resources
+C:\Users\Asus\OneDrive\Desktop\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.FormCheck.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\bin\Debug\addroom.mdf
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\bin\Debug\addroom_log.ldf
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe.config
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.exe
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\bin\Debug\Hotel_Management_System.pdb
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Form1.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Form2.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Form3.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Form4.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Form5.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Formbill.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.FormCheck.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.FormCheckin.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.FormFinancial.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.FormPayroll.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.User_Controls.UcEmployee.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.User_Controls.UcRoomlist.resources
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.exe
+C:\Users\Asus\OneDrive\Desktop\c sharp\Projectc#\Hotel_Management_System\Hotel_Management_System\obj\Debug\Hotel_Management_System.pdb
